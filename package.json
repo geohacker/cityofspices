@@ -1,0 +1,19 @@
+{
+  "name": "cityofspices",
+  "version": "1.0.0",
+  "description": "Things I like about the City of Spices _work in progress_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geohacker/cityofspices.git"
+  },
+  "author": "Sajjad Anwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geohacker/cityofspices/issues"
+  },
+  "homepage": "https://github.com/geohacker/cityofspices"
+}
